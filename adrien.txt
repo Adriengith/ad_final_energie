@@ -1,0 +1,16 @@
+
+SolarEdge 2               add 
+teladoc health 1
+square 2-3    add
+wix 1
+
+
+ELEC
+2008-2018
+
+operateur    operateur
+annee        date
+type          territoire
+code          code
+secteur       secteur
+conso         conso
